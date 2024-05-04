@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibaa23&label=Profile%20views&color=0e75b6&style=flat" alt="dibaa23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibaa23" alt="dibaa23" /></a> </p>
-
 - 🔭 I’m currently working on [Rupture](https://dibaa23.itch.io/rupture)
 
 - 🌱 I’m currently learning **Generative AI**
