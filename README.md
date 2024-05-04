@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aabid Quraishi</h1>
+<h1 align="center">Hi, I'm Aabid Quraishi</h1>
 <h3 align="center">A passionate AI Application and Video Game Developer from Atlanta, GA</h3>
 
 - 🔭 I’m currently working on [Rupture](https://dibaa23.itch.io/rupture)
