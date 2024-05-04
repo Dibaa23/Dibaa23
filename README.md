@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **Computational Media**
 
-- 👯 I’m looking to collaborate on **Generative AI**
-
 - 👨‍💻 All of my projects are available on [my website](aabidsq.com)
 
-- 💬 Ask me about **React and Python**
-
-- 📫 How to reach me **aabid.sq@gmail.com**
+- 📫 How to reach me **dev@aabidsq.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18fJQJK2gKtHc8TCJcWLKcLLxMOjEdpNC/view?usp=sharing)
 
