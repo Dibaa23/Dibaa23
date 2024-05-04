@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aabid Quraishi</h1>
 <h3 align="center">A passionate AI Application and Video Game Developer from Atlanta, GA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibaa23&label=Profile%20views&color=0e75b6&style=flat" alt="dibaa23" /> </p>
-
 - 🔭 I’m currently working on [Rupture](https://dibaa23.itch.io/rupture)
 
 - 🌱 I’m currently learning **Generative AI**
