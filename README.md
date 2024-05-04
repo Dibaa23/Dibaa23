@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Rupture](https://dibaa23.itch.io/rupture)
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Computational Media**
 
-- 👯 I’m looking to collaborate on [Praglogic AI](COMING SOON)
+- 👯 I’m looking to collaborate on **Generative AI**
 
 - 👨‍💻 All of my projects are available on [my website](aabidsq.com)
 
