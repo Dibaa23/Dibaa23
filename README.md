@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on [Praglogic AI](COMING SOON)
 
-- 👨‍💻 All of my projects are available on [my website](my website)
+- 👨‍💻 All of my projects are available on [my website](aabidsq.com)
 
 - 💬 Ask me about **React and Python**
 
 - 📫 How to reach me **aabid.sq@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18fJQJK2gKtHc8TCJcWLKcLLxMOjEdpNC/view?usp=sharing](https://drive.google.com/file/d/18fJQJK2gKtHc8TCJcWLKcLLxMOjEdpNC/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18fJQJK2gKtHc8TCJcWLKcLLxMOjEdpNC/view?usp=sharing)
 
 - ⚡ Fun fact **I have two cats named Lilo and Stitch**
 
