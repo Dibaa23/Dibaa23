@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computational Media**
 
-- 👨‍💻 All of my projects are available on ([my website](https://aabidsq.com/))
+- 👨‍💻 All of my projects are available on [my website](https://aabidsq.com/)
 
 - 📫 How to reach me **dev@aabidsq.com**
 
