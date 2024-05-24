@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **dev@aabidsq.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18fJQJK2gKtHc8TCJcWLKcLLxMOjEdpNC/view?usp=sharing)
-
 - ⚡ Fun fact **I have two cats named Lilo and Stitch**
 
 <h3 align="left">Connect with me:</h3>
